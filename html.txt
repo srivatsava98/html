@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<img src="D:\download.jpg" width="100" height="100">
+<p style="color:blue;">Paytm is an Indian e-commerce payment system and digital wallet company.It is widely in india.Paytm is accepted at many stores and is also used for shopping </p>
+<table style="width:100%">
+  <tr>
+    <th><div style="text-align: left"><img src="D:\movies.jpg" width="100" height="100"></th>
+    <th><div style="text-align: left"><img src="D:\Flight.jpg" width="100" height="100"></th> 
+    <th><div style="text-align: left"><img src="D:\Train.jpg" width="100" height="100"></th>
+    <th><div style="text-align: left"><img src="D:\bus.jpg" width="100" height="100"></th>
+    <th><div style="text-align: left"><img src="D:\events.jpg" width="100" height="100"></th>
+    <th><div style="text-align: left"><img src="D:\Cars.jpg" width="100" height="100"></th>
+		
+  </tr>
+  <tr>
+    <td><div style="text-align: left"><a href="https://www.bookmyshow.com">Movies</a></div></td>
+    <td><div style="text-align: left"><a href="https://www.cleartrip.com">Flights</a></div></td>
+    <td><div style="text-align: left"><a href="https://www.irctc.co.in/eticketing/loginHome.jsf">Train</a></div></td>
+    <td><div style="text-align: left"><a href="https://www.redbus.in"> Bus</a>/</div></td>
+    <td><div style="text-align: left"><a href="https://paytm.com/events"> Events</a></div></td>
+    <td><div style="text-align: left"><a href="http://www.cars24.in/Buy-New-Car-Online.aspx"> Cars</a></div></td>
+  </tr>
+</table>
+<table style="width:100%">
+  <tr>
+    <th><div style="text-align: left"><img src="D:\movies.jpg" width="100" height="100"></th>
+    <th><div style="text-align: left"><img src="D:\Flight.jpg" width="100" height="100"></th> 
+    <th><div style="text-align: left"><img src="D:\Train.jpg" width="100" height="100"></th>
+    <th><div style="text-align: left"><img src="D:\bus.jpg" width="100" height="100"></th>
+    <th><div style="text-align: left"><img src="D:\events.jpg" width="100" height="100"></th>
+    <th><div style="text-align: left"><img src="D:\Cars.jpg" width="100" height="100"></th>		
+  </tr>
+  <tr>
+    <td><div style="text-align: left">Movies</div></td>
+    <td><div style="text-align: left">Flights</div></td>
+    <td><div style="text-align: left">Train</div></td>
+    <td><div style="text-align: left">bus</div></td>
+    <td><div style="text-align: left">events</div></td>
+    <td><div style="text-align: left">Cars</div></td>
+  </tr>
+</table>
+</body>
+</html>
